@@ -1,9 +1,9 @@
 ---
-title: "Javascript with nextJS and react"
-date: "March 24, 2023"
+title: 'Javascript with nextJS and react'
+date: 'March 24, 2023'
 image: next.png
-excerpt: "Javascript is a very powerful, synchronous language for building web applications"
-isFeatured: true
+excerpt: Javascript is a very powerful, synchronous language for building web applications.
+isFeatured: false
 ---
 
 Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
