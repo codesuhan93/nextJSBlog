@@ -1,22 +1,22 @@
-import Image from 'next/image';
+import Image from "next/image";
 
-import classes from './hero.module.css';
+import classes from "./hero.module.css";
 
 function Hero() {
   return (
     <section className={classes.hero}>
       <div className={classes.image}>
         <Image
-          src='/images/site/max.png'
-          alt='An image showing Max'
+          src="/images/site/blog.png"
+          alt="An image showing blogs"
           width={300}
           height={300}
         />
       </div>
-      <h1>Hi, I'm Max</h1>
+      <h1>Tech Advanced Blogging Platform</h1>
       <p>
-        I blog about web development - especially frontend frameworks like
-        Angular or React.
+        Tech Advanced is a blogging platform that brings you exciting & reliable
+        tech news everyday.
       </p>
     </section>
   );
