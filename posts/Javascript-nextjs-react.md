@@ -1,14 +1,14 @@
 ---
 title: "Javascript with nextJS and react"
-date: "March 16, 2021"
+date: "March 24, 2023"
 image: next.png
 excerpt: "Javascript is a very powerful, synchronous language for building web applications"
 isFeatured: true
 ---
 
 Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
-haec praepes [partes epulae](http://cui.com/), in egisse de. Caecisque ter
-manus. Munere in exhalat, ferre sed [habe quaeque saepe](http://ne.org/fretum)
+haec praepes [partes epulae](http://next.org/), in egisse de. Caecisque ter
+manus. Munere in exhalat, ferre sed [habe quaeque saepe](http://next.org)
 verba caput ferarum _nubila_? Patriam Cyparisse tamen, **saxum** fide postponere
 pavida ne omnes etiam, atque. Sonuit omina sed sine haerebat illic fit a mora
 in.
